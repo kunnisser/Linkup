@@ -1,0 +1,84 @@
+{"frames": {
+
+"decorate.png":
+{
+	"frame": {"x":235,"y":269,"w":673,"h":210},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":673,"h":210},
+	"sourceSize": {"w":673,"h":210}
+},
+"logo.png":
+{
+	"frame": {"x":0,"y":269,"w":235,"h":210},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":235,"h":210},
+	"sourceSize": {"w":235,"h":210}
+},
+"personalScore.png":
+{
+	"frame": {"x":266,"y":178,"w":266,"h":91},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":266,"h":91},
+	"sourceSize": {"w":266,"h":91}
+},
+"rank.png":
+{
+	"frame": {"x":0,"y":178,"w":266,"h":91},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":266,"h":91},
+	"sourceSize": {"w":266,"h":91}
+},
+"start.png":
+{
+	"frame": {"x":514,"y":0,"w":266,"h":91},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":266,"h":91},
+	"sourceSize": {"w":266,"h":91}
+},
+"suspend.png":
+{
+	"frame": {"x":133,"y":0,"w":115,"h":178},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":115,"h":178},
+	"sourceSize": {"w":115,"h":178}
+},
+"tryAgain.png":
+{
+	"frame": {"x":248,"y":0,"w":266,"h":91},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":266,"h":91},
+	"sourceSize": {"w":266,"h":91}
+},
+"tutorialBtn.png":
+{
+	"frame": {"x":0,"y":0,"w":133,"h":132},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":133,"h":132},
+	"sourceSize": {"w":133,"h":132}
+},
+"unlock.png":
+{
+	"frame": {"x":532,"y":178,"w":266,"h":91},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":266,"h":91},
+	"sourceSize": {"w":266,"h":91}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "menu.png",
+	"format": "RGBA8888",
+	"size": {"w":908,"h":479},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:eb27b50889538e3669aa053260c3b913:52f238fb5ce7fc8c53558f1d419c4f14:e1b68abd82547da08a80c89591506971$"
+}
+}

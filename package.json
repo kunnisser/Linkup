@@ -1,0 +1,30 @@
+{
+  "name": "phasergame",
+  "version": "1.0.0",
+  "description": "changzhou yzd",
+  "main": "main.js",
+  "scripts": {
+    "dev": "webpack-dev-server --inline --hot",
+    "build": "webpack --config webpack.production.config.js"
+  },
+  "author": "kunnisser",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-core": "^6.20.0",
+    "babel-loader": "^6.2.9",
+    "babel-preset-es2015": "^6.18.0",
+    "babel-preset-stage-2": "^6.18.0",
+    "expose-loader": "^0.7.1",
+    "extract-text-webpack-plugin": "^1.0.1",
+    "file-loader": "^0.9.0",
+    "html-webpack-plugin": "^2.24.1",
+    "json-loader": "^0.5.7",
+    "url-loader": "^0.5.7",
+    "webpack": "^1.14.0",
+    "webpack-dev-server": "^1.16.2"
+  },
+  "dependencies": {
+    "crypto-js": "^3.1.9-1",
+    "phaser": "^2.6.2"
+  }
+}

@@ -1,0 +1,92 @@
+{"frames": {
+
+"1.png":
+{
+	"frame": {"x":0,"y":0,"w":148,"h":148},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":148,"h":148},
+	"sourceSize": {"w":148,"h":148}
+},
+"2.png":
+{
+	"frame": {"x":148,"y":0,"w":148,"h":148},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":148,"h":148},
+	"sourceSize": {"w":148,"h":148}
+},
+"3.png":
+{
+	"frame": {"x":296,"y":0,"w":148,"h":148},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":148,"h":148},
+	"sourceSize": {"w":148,"h":148}
+},
+"4.png":
+{
+	"frame": {"x":444,"y":0,"w":148,"h":148},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":148,"h":148},
+	"sourceSize": {"w":148,"h":148}
+},
+"5.png":
+{
+	"frame": {"x":592,"y":0,"w":148,"h":148},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":148,"h":148},
+	"sourceSize": {"w":148,"h":148}
+},
+"6.png":
+{
+	"frame": {"x":740,"y":0,"w":148,"h":148},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":148,"h":148},
+	"sourceSize": {"w":148,"h":148}
+},
+"7.png":
+{
+	"frame": {"x":888,"y":0,"w":148,"h":148},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":148,"h":148},
+	"sourceSize": {"w":148,"h":148}
+},
+"8.png":
+{
+	"frame": {"x":1036,"y":0,"w":148,"h":148},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":148,"h":148},
+	"sourceSize": {"w":148,"h":148}
+},
+"9.png":
+{
+	"frame": {"x":1184,"y":0,"w":148,"h":148},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":148,"h":148},
+	"sourceSize": {"w":148,"h":148}
+},
+"10.png":
+{
+	"frame": {"x":1332,"y":0,"w":148,"h":148},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":148,"h":148},
+	"sourceSize": {"w":148,"h":148}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "jiongdog.png",
+	"format": "RGBA8888",
+	"size": {"w":1480,"h":148},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:4bbebb36b3013e9e376285c243585d76:4656ce5c1356f032d5c702bb33bd86cb:c3f28446c4bee300ca96c6fa9b6d75ac$"
+}
+}

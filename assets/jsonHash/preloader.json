@@ -1,0 +1,43 @@
+{"frames": {
+
+  "BG0000":
+  {
+    "frame": {"x":1,"y":1027,"w":551,"h":671},
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": {"x":0,"y":0,"w":551,"h":671},
+    "sourceSize": {"w":551,"h":671}
+  },
+  "BG_Items0000":
+  {
+    "frame": {"x":1,"y":1,"w":649,"h":1024},
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": {"x":0,"y":0,"w":649,"h":1024},
+    "sourceSize": {"w":649,"h":1024}
+  },
+  "Preloader_Back0000":
+  {
+    "frame": {"x":1,"y":1700,"w":492,"h":48},
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": {"x":0,"y":0,"w":492,"h":48},
+    "sourceSize": {"w":492,"h":48}
+  },
+  "Preloader_Front0000":
+  {
+    "frame": {"x":1,"y":1750,"w":469,"h":29},
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": {"x":0,"y":0,"w":469,"h":29},
+    "sourceSize": {"w":469,"h":29}
+  }},
+  "meta": {
+    "app": "Adobe Flash Professional",
+    "version": "15.0.1.179",
+    "image": "preloader.png",
+    "format": "RGBA8888",
+    "size": {"w":1024,"h":2048},
+    "scale": "1"
+  }
+}
